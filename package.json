@@ -4,7 +4,7 @@
   "description": "A Discord bot with DisTube and slash commands.",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "npm start src/index.js",
   },
   "dependencies": {
     "@discordjs/builders": "^1.8.2",
