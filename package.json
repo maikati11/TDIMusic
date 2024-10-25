@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "start": "npm start src/index.js",
+    "install": "npm install"
   },
   "dependencies": {
     "@discordjs/builders": "^1.8.2",
